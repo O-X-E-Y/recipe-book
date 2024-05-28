@@ -1,0 +1,71 @@
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+    background-color: #222;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    font-family: 'DM Sans', sans-serif;
+    font-size: max(0.85vh, 1.05vw);
+    color: #ddd;
+    overflow: scroll;
+}
+
+.nav-8be589f {
+    background-color: #333;
+    height: 4cqw;
+    padding: 0.5cqw;
+}
+
+.recipe-a034e65 {
+    width: 70%;
+    margin: auto;
+}
+
+.content-a034e65 {
+    background-color: #333;
+    border-radius: 0.7cqw;
+    width: 97%;
+    margin: auto;
+    padding: 1cqw 0 1cqw 5cqw;
+}
+
+.header-a034e65 {
+    /* background-color: green; */
+    text-align: center;
+}
+
+.introduction-a034e65 {
+    /* background-color: navy; */
+}
+
+.subheader-a034e65 {
+    /* background-color: yellowgreen; */
+}
+
+.ingredient-list-a034e65 {
+    
+}
+
+.unit-button-wrapper-a034e65 {
+    background-color: red;
+    position: absolute;
+    right: 15cqw;
+}
+
+.unit-button-a034e65 {
+    background-color: green;
+}
+
+.step-list-a034e65 {
+    /* background-color: brown; */
+}

@@ -1,0 +1,27 @@
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+    background-color: #222;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    font-family: 'DM Sans', sans-serif;
+    font-size: max(0.85vh, 1.05vw);
+    color: #ddd;
+    overflow: scroll;
+}
+
+.nav {
+    background-color: #333;
+    height: 4cqw;
+    padding: 0.5cqw;
+}

@@ -1,0 +1,21 @@
+Recipe title
+
+image: picture link
+
+this is an introduction
+
+---ingredients
+
+.75 cup of white wine
+1 brown onion
+160 g bacon
+500 g rigatoni
+400 mL san marzano tomatoes
+
+---steps
+
+dice ya onions
+
+cooka da pasta
+
+

@@ -1,0 +1,43 @@
+.recipe {
+    width: 70%;
+    margin: auto;
+}
+
+.content {
+    background-color: #333;
+    border-radius: 0.7cqw;
+    width: 97%;
+    margin: auto;
+    padding: 1cqw 0 1cqw 5cqw;
+}
+
+.header {
+    /* background-color: green; */
+    text-align: center;
+}
+
+.introduction {
+    /* background-color: navy; */
+}
+
+.subheader {
+    /* background-color: yellowgreen; */
+}
+
+.ingredient-list {
+    
+}
+
+.unit-button-wrapper {
+    background-color: red;
+    position: absolute;
+    right: 15cqw;
+}
+
+.unit-button {
+    background-color: green;
+}
+
+.step-list {
+    /* background-color: brown; */
+}
